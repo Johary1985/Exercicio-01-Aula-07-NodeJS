@@ -1,2 +1,10 @@
 # Exercicio-01-Aula-07-NodeJS
  
+Exercício prático das aula NodeJS utilizando o framework Express e Sequelize, como banco de dados Sqlite.
+Métodos de solicitação HTTP usados:
+- POST
+- PUT
+- GET
+- DELETE
+- Para fazer os testes é recomendado o Insonia link:
+- https://insomnia.rest/
