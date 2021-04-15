@@ -6,7 +6,7 @@ Métodos de solicitação HTTP usados:
 - PUT
 - GET
 - DELETE
-- Para fazer os testes é recomendado o Insonia link:
+- Para fazer os testes é recomendado o Insomnia link:
 - https://insomnia.rest/
 
 ## Iniciando o projeto
