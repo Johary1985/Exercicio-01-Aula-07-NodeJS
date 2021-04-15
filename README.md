@@ -8,3 +8,10 @@ Métodos de solicitação HTTP usados:
 - DELETE
 - Para fazer os testes é recomendado o Insonia link:
 - https://insomnia.rest/
+
+## Iniciando o projeto
+
+- `npm install`
+- `npm run dev`
+
+Enjoy!
